@@ -1,4 +1,4 @@
-FoodHut Free Bootstrap Restaurant Template for personal and commercial use. Designed with ♥️ and creativity by Devcrud.com 
+FoodHut Free Bootstrap Restaurant Template for personal and commercial use. Designed with ♥️ and creativity by ToXicAPP
 
 Product Page: https://jamalissaka.github.io/myporfolio.github.io/pro.html
 
